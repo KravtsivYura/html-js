@@ -1,0 +1,8 @@
+body{
+    background-color: aqua;
+}
+.firstButton{
+    background-color: coral;
+    border-radius: 20%;
+    border-color: transparent;
+}
